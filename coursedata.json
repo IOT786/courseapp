@@ -3,9 +3,9 @@
     "popularCourses": [
 
       {
-        "name": "Social Marketing and SEO",
+        "name": "Basic java tutorial in hindi",
         "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course4.png",
-        "totalLesson": "35 lessons"
+        "totalLesson": "52 lessons"
       }
     ],
     "courseForYou": [
@@ -13,7 +13,7 @@
 {
         "name": "Design basic for beginner",
         "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course1.png",
-        "totalLesson": "17 lessons"}
+        "totalLesson": "Comming Soon"}
       
     ]
   }
