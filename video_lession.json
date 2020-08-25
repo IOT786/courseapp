@@ -2,21 +2,21 @@
   {
     "videoLession": [
       {
-        "name": "Data Types in java",
+        "name": "Data Types",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"
       },
       {
-        "name": "Variables in java",
+        "name": "Variables",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"      },
       {
-        "name": "Operators in java",
+        "name": "Operators",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Literals & Keyword in java",
+        "name": "Literals & Keyword",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
    
       {
-        "name": "Identifiers in java",
+        "name": "Identifiers",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
         "name": "What is java",
@@ -25,7 +25,7 @@
         "name": "History of java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "JDK, JRE, JVM Architecture in java",
+        "name": "JDK, JRE, JVM Architecture",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"      },
       {
         "name": "Simple Java Hello Program",
@@ -34,15 +34,15 @@
         "name": "Explanation of Java Hello Program",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Deep Architecture of JVM in java",
+        "name": "Deep Architecture of JVM",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
         "name": "How To Run Java Program Using Bat File",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Conditional Statements in java",
+        "name": "Conditional Statements",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Looping Statements in java",
+        "name": "Looping Statements",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      }
     ]}]
