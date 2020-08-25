@@ -2,46 +2,50 @@
   {
     "videoLession": [
       {
-        "name": " Bro Basic tutorial for beginners bhai jaan",
+        "name": "Data Types in java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"
       },
       {
-        "name": " Nice Social Marketing and SEO",
+        "name": "Variables in java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"      },
       {
-        "name": "Design basic for beginner",
+        "name": "Operators in java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Design basic for beginner bhai jaan",
+        "name": "Literals & Keyword in java",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
+   
+      {
+        "name": "Identifiers in java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Design basic for beginner ok bro",
+        "name": "What is java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Design basic for beginner",
-        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
-      {
-        "name": "Design basic for beginner",
-        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
-      {
-        "name": "Design basic for beginner",
-        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
-      {
-        "name": "Design basic for beginner",
-        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
-      {
-        "name": "Social Marketing and SEO",
+        "name": "History of java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },{
         "name": "Design basic for beginner",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"
       },
       {
-        "name": "Social Marketing and SEO",
+        "name": "JDK,JRE,JVM Architecture in java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"      },
       {
-        "name": "Design basic for beginner",
+        "name": "Simple Java Hello Program",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
       {
-        "name": "Social Marketing and SEO",
+        "name": "Explanation of Java Hello Program",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
+      {
+        "name": "Deep Architecture of JVM in java",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
+      {
+        "name": "How To Run Java Program Using Bat File",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
+      {
+        "name": "Conditional Statements in java",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
+      {
+        "name": "Looping Statements in java",
         "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      }
     ]}]
